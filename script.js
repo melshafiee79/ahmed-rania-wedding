@@ -32,3 +32,5 @@ function replay() {
 openButton.addEventListener('click', openInvitation);
 openText.addEventListener('click', openInvitation);
 replayButton.addEventListener('click', replay);
+
+
